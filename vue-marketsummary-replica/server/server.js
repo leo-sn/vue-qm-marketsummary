@@ -36,13 +36,11 @@ app.use('/market-stats', marketStatsRoute);
 app.use('/snap-quotes', snapQuoteRoute);
 
 
-//root access
+//root access request
 app.get('/', (_req, res) => {
-    res.status(200).send('Accessed root /')
+    
+    res.status(200).send('Accessed root. Datapoints available: /headlines, /market-activity-stats, /market-quotes, /market-stats, /snap-quotes.')
 })
-
-//warehouse access
-// app.use('/warehouse', warehouseRoute)
 
 //Listening for access on PORT
 app.listen(PORT, hostname, () => {
