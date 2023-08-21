@@ -1,0 +1,348 @@
+{
+    "results": {
+        "copyright": "Copyright (c) 2023 QuoteMedia, Inc.",
+        "symbolcount": 8,
+        "quote": [
+            {
+                "key": {
+                    "symbol": "$USDEUR",
+                    "exchange": "FRXL",
+                    "exLgName": "Foreign Currencies",
+                    "exShName": "FOREX",
+                    "isopen": "true",
+                    "iscurrentlyopen": "true",
+                    "timezone": "GMT"
+                },
+                "equityinfo": {
+                    "longname": "USA Dollars - EU Euro",
+                    "shortname": "EURO"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 0.913365,
+                    "change": 0.002755,
+                    "changepercent": 0.302544,
+                    "tick": -1,
+                    "open": 0.910605,
+                    "high": 0.91383,
+                    "low": 0.908695,
+                    "prevclose": 0.91061,
+                    "bid": 0.91333,
+                    "ask": 0.9134,
+                    "bidsize": 0,
+                    "asksize": 0,
+                    "tradevolume": 6634,
+                    "sharevolume": 0,
+                    "lasttradedatetime": "2023-08-11T18:26:30Z",
+                    "lastquotedatetime": "2023-08-11T18:26:30Z",
+                    "bidmarketidentificationcode": "FRXL",
+                    "askmarketidentificationcode": "FRXL",
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "$USDEUR",
+                "datatype": "forex",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T18:26:32Z"
+            },
+            {
+                "key": {
+                    "symbol": "$USDJPY",
+                    "exchange": "FRXL",
+                    "exLgName": "Foreign Currencies",
+                    "exShName": "FOREX",
+                    "isopen": "true",
+                    "iscurrentlyopen": "true",
+                    "timezone": "GMT"
+                },
+                "equityinfo": {
+                    "longname": "USA Dollars - Japan Yen",
+                    "shortname": "JPY"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 144.966,
+                    "change": 0.112,
+                    "changepercent": 0.077319,
+                    "tick": -1,
+                    "open": 144.855,
+                    "high": 145.001,
+                    "low": 144.433,
+                    "prevclose": 144.854,
+                    "bid": 144.962,
+                    "ask": 144.97,
+                    "bidsize": 0,
+                    "asksize": 0,
+                    "tradevolume": 782,
+                    "sharevolume": 0,
+                    "lasttradedatetime": "2023-08-11T18:26:30Z",
+                    "lastquotedatetime": "2023-08-11T18:26:30Z",
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "$USDJPY",
+                "datatype": "forex",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T18:26:32Z"
+            },
+            {
+                "key": {
+                    "symbol": "$USDGBP",
+                    "exchange": "FRXL",
+                    "exLgName": "Foreign Currencies",
+                    "exShName": "FOREX",
+                    "isopen": "true",
+                    "iscurrentlyopen": "true",
+                    "timezone": "GMT"
+                },
+                "equityinfo": {
+                    "longname": "USA Dollars - UK Pounds",
+                    "shortname": "GBP"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 0.7875907,
+                    "change": -0.0016693,
+                    "changepercent": -0.211502,
+                    "tick": -1,
+                    "open": 0.789255,
+                    "high": 0.78955,
+                    "low": 0.78503,
+                    "prevclose": 0.78926,
+                    "bid": 0.7875814,
+                    "ask": 0.7876,
+                    "bidsize": 0,
+                    "asksize": 0,
+                    "tradevolume": 782,
+                    "sharevolume": 0,
+                    "lasttradedatetime": "2023-08-11T18:26:31Z",
+                    "lastquotedatetime": "2023-08-11T18:26:31Z",
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "$USDGBP",
+                "datatype": "forex",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T18:26:32Z"
+            },
+            {
+                "key": {
+                    "symbol": "$USDCHF",
+                    "exchange": "FRXL",
+                    "exLgName": "Foreign Currencies",
+                    "exShName": "FOREX",
+                    "isopen": "true",
+                    "iscurrentlyopen": "true",
+                    "timezone": "GMT"
+                },
+                "equityinfo": {
+                    "longname": "USA Dollars - Switzerland Francs",
+                    "shortname": "CHF"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 0.876285,
+                    "change": -0.000505,
+                    "changepercent": -0.057596,
+                    "tick": -1,
+                    "open": 0.87687,
+                    "high": 0.878065,
+                    "low": 0.87348,
+                    "prevclose": 0.87679,
+                    "bid": 0.87626,
+                    "ask": 0.87631,
+                    "bidsize": 0,
+                    "asksize": 0,
+                    "tradevolume": 782,
+                    "sharevolume": 0,
+                    "lasttradedatetime": "2023-08-11T18:26:31Z",
+                    "lastquotedatetime": "2023-08-11T18:26:31Z",
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "$USDCHF",
+                "datatype": "forex",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T18:26:32Z"
+            },
+            {
+                "key": {
+                    "symbol": "$USDCAD",
+                    "exchange": "FRXL",
+                    "exLgName": "Foreign Currencies",
+                    "exShName": "FOREX",
+                    "isopen": "true",
+                    "iscurrentlyopen": "true",
+                    "timezone": "GMT"
+                },
+                "equityinfo": {
+                    "longname": "USA Dollars - Canada Dollars",
+                    "shortname": "CAD"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 1.34439,
+                    "change": -0.00009,
+                    "changepercent": -0.006694,
+                    "tick": -1,
+                    "open": 1.344465,
+                    "high": 1.346585,
+                    "low": 1.34125,
+                    "prevclose": 1.34448,
+                    "bid": 1.34437,
+                    "ask": 1.34441,
+                    "bidsize": 0,
+                    "asksize": 0,
+                    "tradevolume": 782,
+                    "sharevolume": 0,
+                    "lasttradedatetime": "2023-08-11T18:26:31Z",
+                    "lastquotedatetime": "2023-08-11T18:26:31Z",
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "$USDCAD",
+                "datatype": "forex",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T18:26:32Z"
+            },
+            {
+                "key": {
+                    "symbol": "$USDAUD",
+                    "exchange": "FRXL",
+                    "exLgName": "Foreign Currencies",
+                    "exShName": "FOREX",
+                    "isopen": "true",
+                    "iscurrentlyopen": "true",
+                    "timezone": "GMT"
+                },
+                "equityinfo": {
+                    "longname": "USA Dollars - Australia Dollars",
+                    "shortname": "AUD"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 1.5399185,
+                    "change": 0.00440987,
+                    "changepercent": 0.287193,
+                    "tick": -1,
+                    "open": 1.535603,
+                    "high": 1.5417942,
+                    "low": 1.53053,
+                    "prevclose": 1.53550863,
+                    "bid": 1.5399067,
+                    "ask": 1.5399304,
+                    "bidsize": 0,
+                    "asksize": 0,
+                    "tradevolume": 782,
+                    "sharevolume": 0,
+                    "lasttradedatetime": "2023-08-11T18:26:31Z",
+                    "lastquotedatetime": "2023-08-11T18:26:31Z",
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "$USDAUD",
+                "datatype": "forex",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T18:26:32Z"
+            },
+            {
+                "key": {
+                    "symbol": "$USDNZD",
+                    "exchange": "FRXL",
+                    "exLgName": "Foreign Currencies",
+                    "exShName": "FOREX",
+                    "isopen": "true",
+                    "iscurrentlyopen": "true",
+                    "timezone": "GMT"
+                },
+                "equityinfo": {
+                    "longname": "USA Dollars - New Zealand Dollars",
+                    "shortname": "NZD"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 1.6714861,
+                    "change": 0.0085161,
+                    "changepercent": 0.512102,
+                    "tick": 1,
+                    "open": 1.66338,
+                    "high": 1.6735982,
+                    "low": 1.66016,
+                    "prevclose": 1.66297,
+                    "bid": 1.6714302,
+                    "ask": 1.671542,
+                    "bidsize": 0,
+                    "asksize": 0,
+                    "tradevolume": 782,
+                    "sharevolume": 0,
+                    "lasttradedatetime": "2023-08-11T18:26:29Z",
+                    "lastquotedatetime": "2023-08-11T18:26:29Z",
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "$USDNZD",
+                "datatype": "forex",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T18:26:32Z"
+            },
+            {
+                "key": {
+                    "symbol": "$USDHKD",
+                    "exchange": "FRXL",
+                    "exLgName": "Foreign Currencies",
+                    "exShName": "FOREX",
+                    "isopen": "true",
+                    "iscurrentlyopen": "true",
+                    "timezone": "GMT"
+                },
+                "equityinfo": {
+                    "longname": "USA Dollars - Hong Kong Dollars",
+                    "shortname": "HKD"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 7.817465,
+                    "change": -0.002135,
+                    "changepercent": -0.027303,
+                    "tick": 1,
+                    "open": 7.81954,
+                    "high": 7.82025,
+                    "low": 7.81242,
+                    "prevclose": 7.8196,
+                    "bid": 7.81734,
+                    "ask": 7.81759,
+                    "bidsize": 0,
+                    "asksize": 0,
+                    "tradevolume": 6618,
+                    "sharevolume": 0,
+                    "lasttradedatetime": "2023-08-11T18:26:30Z",
+                    "lastquotedatetime": "2023-08-11T18:26:30Z",
+                    "bidmarketidentificationcode": "FRXL",
+                    "askmarketidentificationcode": "FRXL",
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "$USDHKD",
+                "datatype": "forex",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T18:26:32Z"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "results": {
+        "copyright": "Copyright (c) 2023 QuoteMedia, Inc.",
+        "marketactivity": {
+            "entitlement": "DL",
+            "datetime": "2023-08-11T14:26:30-04:00",
+            "exchange": "AMX",
+            "exLgName": "NYSE American",
+            "exShName": "NYSE American",
+            "issuesadvanced": 147,
+            "issuesdeclined": 147,
+            "issuesunchanged": 17,
+            "totalissues": 311,
+            "advancedsharevolume": 171009000,
+            "declinedsharevolume": 52180000,
+            "unchangedsharevolume": -3230000,
+            "totalsharevolume": 219959000,
+            "issues52weekhigh": 6,
+            "issues52weeklow": 9,
+            "totalvalue": 644406914,
+            "totaltrades": 478415
+        }
+    }
+}

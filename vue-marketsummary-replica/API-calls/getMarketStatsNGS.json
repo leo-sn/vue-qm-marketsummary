@@ -1,0 +1,318 @@
+{
+    "results": {
+        "copyright": "Copyright (c) 2023 QuoteMedia, Inc.",
+        "symbolcount": 5,
+        "quote": [
+            {
+                "key": {
+                    "symbol": "AMRS",
+                    "exchange": "NGS",
+                    "exLgName": "Nasdaq Global Select",
+                    "exShName": "NGS"
+                },
+                "equityinfo": {
+                    "longname": "Amyris Inc.",
+                    "shortname": "AMRS"
+                },
+                "status": {
+                    "regsho": "r",
+                    "effectivedate": "2023-08-11T03:07:05-0400"
+                },
+                "pricedata": {
+                    "last": 0.1539,
+                    "change": 0.088,
+                    "changepercent": 133.53566,
+                    "tick": 0,
+                    "open": 0.1199,
+                    "high": 0.199,
+                    "low": 0.1017,
+                    "prevclose": 0.0659,
+                    "bid": 0.154,
+                    "ask": 0.1541,
+                    "bidsize": 7900,
+                    "asksize": 300,
+                    "rawbidsize": 79,
+                    "rawasksize": 3,
+                    "tradevolume": 378882,
+                    "sharevolume": 611659357,
+                    "vwap": 0.085122,
+                    "lasttradedatetime": "2023-08-11T14:26:31-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:31-04:00",
+                    "totalvalue": 92385651.30,
+                    "volumechangepercent": 4888.504
+                },
+                "fundamental": {
+                    "sharesoutstanding": 369385614,
+                    "shareclasslevelsharesoutstanding": 369385614,
+                    "totalsharesoutstanding": 369385614,
+                    "marketcap": 56848446,
+                    "eps": -1.85000002,
+                    "pbratio": -0.086,
+                    "week52high": {
+                        "date": "2022-09-15",
+                        "content": 4.86
+                    },
+                    "week52low": {
+                        "date": "2023-08-10",
+                        "content": 0.06
+                    }
+                },
+                "symbolstring": "AMRS",
+                "datatype": "equity",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "IDEX",
+                    "exchange": "NSC",
+                    "exLgName": "NASDAQ Capital Market",
+                    "exShName": "NCM"
+                },
+                "equityinfo": {
+                    "longname": "Ideanomics Inc.",
+                    "shortname": "IDEX"
+                },
+                "status": {
+                    "regsho": "R",
+                    "effectivedate": "2023-08-11T14:22:11-0400"
+                },
+                "pricedata": {
+                    "last": 0.04845,
+                    "change": -0.00455,
+                    "changepercent": -8.584906,
+                    "tick": 0,
+                    "open": 0.0527,
+                    "high": 0.0538,
+                    "low": 0.0475,
+                    "prevclose": 0.053,
+                    "bid": 0.0484,
+                    "ask": 0.0485,
+                    "bidsize": 100,
+                    "asksize": 1700,
+                    "rawbidsize": 1,
+                    "rawasksize": 17,
+                    "tradevolume": 22293,
+                    "sharevolume": 143036382,
+                    "vwap": 0.053748,
+                    "lasttradedatetime": "2023-08-11T14:26:26-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:30-04:00",
+                    "totalvalue": 7159540.30,
+                    "volumechangepercent": 302.81357
+                },
+                "fundamental": {
+                    "sharesoutstanding": 1384019786,
+                    "shareclasslevelsharesoutstanding": 1384019786,
+                    "totalsharesoutstanding": 1384019786,
+                    "marketcap": 67055759,
+                    "eps": -0.50999999,
+                    "pbratio": 0.808,
+                    "week52high": {
+                        "date": "2022-08-15",
+                        "content": 0.72
+                    },
+                    "week52low": {
+                        "date": "2023-04-26",
+                        "content": 0.02
+                    }
+                },
+                "symbolstring": "IDEX",
+                "datatype": "equity",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "PTRA",
+                    "exchange": "NGS",
+                    "exLgName": "Nasdaq Global Select",
+                    "exShName": "NGS"
+                },
+                "equityinfo": {
+                    "longname": "Proterra Inc",
+                    "shortname": "Proterra Inc"
+                },
+                "status": {
+                    "regsho": "r",
+                    "effectivedate": "2023-08-11T03:07:05-0400"
+                },
+                "pricedata": {
+                    "last": 0.1229,
+                    "change": 0.0181,
+                    "changepercent": 17.270992,
+                    "tick": 0,
+                    "open": 0.1294,
+                    "high": 0.155,
+                    "low": 0.1167,
+                    "prevclose": 0.1048,
+                    "bid": 0.1228,
+                    "ask": 0.123,
+                    "bidsize": 400,
+                    "asksize": 1500,
+                    "rawbidsize": 4,
+                    "rawasksize": 15,
+                    "tradevolume": 99838,
+                    "sharevolume": 122507864,
+                    "vwap": 0.120094,
+                    "lasttradedatetime": "2023-08-11T14:26:31-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:31-04:00",
+                    "totalvalue": 16681050.80,
+                    "volumechangepercent": 736.68976
+                },
+                "fundamental": {
+                    "sharesoutstanding": 227800000,
+                    "shareclasslevelsharesoutstanding": 227800000,
+                    "totalsharesoutstanding": 227800000,
+                    "marketcap": 27996620,
+                    "eps": -1.49,
+                    "pbratio": 0.105,
+                    "week52high": {
+                        "date": "2022-11-14",
+                        "content": 7.705
+                    },
+                    "week52low": {
+                        "date": "2023-08-10",
+                        "content": 0.10
+                    }
+                },
+                "symbolstring": "PTRA",
+                "datatype": "equity",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "SQQQ",
+                    "exchange": "NSD",
+                    "exLgName": "NASDAQ Global Market",
+                    "exShName": "NSD"
+                },
+                "equityinfo": {
+                    "longname": "PROSHARES TRUST",
+                    "shortname": "SQQQ"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 19.46,
+                    "change": 0.33,
+                    "changepercent": 1.725039,
+                    "tick": 1,
+                    "open": 19.555,
+                    "high": 19.75,
+                    "low": 19.24,
+                    "prevclose": 19.13,
+                    "bid": 19.45,
+                    "ask": 19.46,
+                    "bidsize": 86600,
+                    "asksize": 47700,
+                    "rawbidsize": 866,
+                    "rawasksize": 477,
+                    "tradevolume": 189372,
+                    "sharevolume": 105771181,
+                    "vwap": 18.846715,
+                    "lasttradedatetime": "2023-08-11T14:26:30-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:32-04:00",
+                    "totalvalue": 2070519690.00,
+                    "volumechangepercent": -10.80312
+                },
+                "fundamental": {
+                    "sharesoutstanding": 170350547,
+                    "shareclasslevelsharesoutstanding": 225650550,
+                    "marketcap": 3315021645,
+                    "week52high": {
+                        "date": "2022-10-13",
+                        "content": 69.55
+                    },
+                    "week52low": {
+                        "date": "2023-07-19",
+                        "content": 16.38
+                    },
+                    "dividend": {
+                        "date": "2023-06-21",
+                        "amount": 0.6218,
+                        "yield": 3.25,
+                        "latestamount": {
+                            "currency": "USD",
+                            "content": 0.266227
+                        },
+                        "frequency": "U",
+                        "paydate": "2023-06-28"
+                    }
+                },
+                "symbolstring": "SQQQ",
+                "datatype": "etf",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "TQQQ",
+                    "exchange": "NSD",
+                    "exLgName": "NASDAQ Global Market",
+                    "exShName": "NSD"
+                },
+                "equityinfo": {
+                    "longname": "PROSHARES TRUST",
+                    "shortname": "TQQQ"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 39.2201,
+                    "change": -0.6699,
+                    "changepercent": -1.679368,
+                    "tick": 1,
+                    "open": 39.03,
+                    "high": 39.675,
+                    "low": 38.60,
+                    "prevclose": 39.89,
+                    "bid": 39.22,
+                    "ask": 39.23,
+                    "bidsize": 7100,
+                    "asksize": 10700,
+                    "rawbidsize": 71,
+                    "rawasksize": 107,
+                    "tradevolume": 342629,
+                    "sharevolume": 81355821,
+                    "vwap": 40.452274,
+                    "lasttradedatetime": "2023-08-11T14:26:31-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:31-04:00",
+                    "totalvalue": 3185021760.00,
+                    "volumechangepercent": -12.713615
+                },
+                "fundamental": {
+                    "sharesoutstanding": 483350000,
+                    "shareclasslevelsharesoutstanding": 449850000,
+                    "marketcap": 18957035335,
+                    "week52high": {
+                        "date": "2023-07-19",
+                        "content": 47.14
+                    },
+                    "week52low": {
+                        "date": "2023-01-06",
+                        "content": 16.10
+                    },
+                    "dividend": {
+                        "date": "2023-06-21",
+                        "amount": 0.5004,
+                        "yield": 1.254,
+                        "latestamount": {
+                            "currency": "USD",
+                            "content": 0.12758
+                        },
+                        "frequency": "Q",
+                        "paydate": "2023-06-28"
+                    }
+                },
+                "symbolstring": "TQQQ",
+                "datatype": "etf",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            }
+        ]
+    }
+}

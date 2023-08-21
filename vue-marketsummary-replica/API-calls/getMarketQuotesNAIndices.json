@@ -1,0 +1,324 @@
+{
+    "results": {
+        "copyright": "Copyright (c) 2023 QuoteMedia, Inc.",
+        "symbolcount": 5,
+        "quote": [
+            {
+                "key": {
+                    "symbol": "WE",
+                    "exchange": "NYE",
+                    "exLgName": "New York Stock Exchange",
+                    "exShName": "NYSE"
+                },
+                "equityinfo": {
+                    "longname": "WeWork Inc. Class A",
+                    "shortname": "WeWork Inc"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 0.2218,
+                    "change": 0.0369,
+                    "changepercent": 19.956734,
+                    "tick": 1,
+                    "open": 0.2231,
+                    "high": 0.275,
+                    "low": 0.185,
+                    "prevclose": 0.1849,
+                    "bid": 0.2217,
+                    "ask": 0.2218,
+                    "bidsize": 7600,
+                    "asksize": 1700,
+                    "rawbidsize": 76,
+                    "rawasksize": 17,
+                    "tradevolume": 195024,
+                    "sharevolume": 318754036,
+                    "vwap": 0.230622,
+                    "lasttradedatetime": "2023-08-11T14:26:30-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:27-04:00",
+                    "totalvalue": 72412380.40,
+                    "volumechangepercent": 667.5094
+                },
+                "fundamental": {
+                    "sharesoutstanding": 2130218845,
+                    "shareclasslevelsharesoutstanding": 2110280756,
+                    "totalsharesoutstanding": 2130218845,
+                    "marketcap": 472482540,
+                    "eps": -1.88999998,
+                    "pbratio": -0.127,
+                    "week52high": {
+                        "date": "2022-08-11",
+                        "content": 5.935
+                    },
+                    "week52low": {
+                        "date": "2023-08-09",
+                        "content": 0.1248
+                    }
+                },
+                "symbolstring": "WE",
+                "datatype": "equity",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "CANO",
+                    "exchange": "NYE",
+                    "exLgName": "New York Stock Exchange",
+                    "exShName": "NYSE"
+                },
+                "equityinfo": {
+                    "longname": "Cano Health Inc. Class A",
+                    "shortname": "Jaws Acquisition"
+                },
+                "status": {
+                    "regsho": "R",
+                    "effectivedate": "2023-08-11T09:30:20-0400"
+                },
+                "pricedata": {
+                    "last": 0.477,
+                    "change": -1.043,
+                    "changepercent": -68.618423,
+                    "tick": 1,
+                    "open": 0.7845,
+                    "high": 0.795,
+                    "low": 0.3844,
+                    "prevclose": 1.52,
+                    "bid": 0.4765,
+                    "ask": 0.477,
+                    "bidsize": 1100,
+                    "asksize": 200,
+                    "rawbidsize": 11,
+                    "rawasksize": 2,
+                    "tradevolume": 78052,
+                    "sharevolume": 74179200,
+                    "vwap": 1.126306,
+                    "lasttradedatetime": "2023-08-11T14:26:31-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:31-04:00",
+                    "totalvalue": 38235233.70,
+                    "volumechangepercent": 1891.0394
+                },
+                "fundamental": {
+                    "sharesoutstanding": 536071320,
+                    "shareclasslevelsharesoutstanding": 278925591,
+                    "totalsharesoutstanding": 536071320,
+                    "marketcap": 255706020,
+                    "eps": -1.07000005,
+                    "pbratio": 0.917,
+                    "week52high": {
+                        "date": "2022-10-07",
+                        "content": 9.75
+                    },
+                    "week52low": {
+                        "date": "2023-03-31",
+                        "content": 0.7621
+                    }
+                },
+                "symbolstring": "CANO",
+                "datatype": "equity",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "SOXS",
+                    "exchange": "ARCA",
+                    "exLgName": "NYSE Arca",
+                    "exShName": "ARCA"
+                },
+                "equityinfo": {
+                    "longname": "Direxion Daily Semiconductor Bear 3X Shares",
+                    "shortname": "SOXS"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 10.805,
+                    "change": 0.675,
+                    "changepercent": 6.663376,
+                    "tick": 0,
+                    "open": 10.51,
+                    "high": 10.92,
+                    "low": 10.48,
+                    "prevclose": 10.13,
+                    "bid": 10.80,
+                    "ask": 10.81,
+                    "bidsize": 63200,
+                    "asksize": 87000,
+                    "rawbidsize": 632,
+                    "rawasksize": 870,
+                    "tradevolume": 122264,
+                    "sharevolume": 61666835,
+                    "vwap": 9.881974,
+                    "lasttradedatetime": "2023-08-11T14:26:29-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:31-04:00",
+                    "totalvalue": 659296117.00,
+                    "volumechangepercent": -1.0595578
+                },
+                "fundamental": {
+                    "sharesoutstanding": 64573440,
+                    "shareclasslevelsharesoutstanding": 107173440,
+                    "marketcap": 697716019,
+                    "week52high": {
+                        "date": "2022-10-13",
+                        "content": 89.59
+                    },
+                    "week52low": {
+                        "date": "2023-07-31",
+                        "content": 8.17
+                    },
+                    "dividend": {
+                        "date": "2023-06-21",
+                        "amount": 0.508426666,
+                        "yield": 5.019,
+                        "latestamount": {
+                            "currency": "USD",
+                            "content": 0.11927
+                        },
+                        "frequency": "Q",
+                        "paydate": "2023-06-28"
+                    }
+                },
+                "symbolstring": "SOXS",
+                "datatype": "etf",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "SOXL",
+                    "exchange": "ARCA",
+                    "exLgName": "NYSE Arca",
+                    "exShName": "ARCA"
+                },
+                "equityinfo": {
+                    "longname": "Direxion Daily Semiconductor Bull 3X Shares",
+                    "shortname": "SOXL"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 21.26,
+                    "change": -1.55,
+                    "changepercent": -6.795265,
+                    "tick": 1,
+                    "open": 21.93,
+                    "high": 22.00,
+                    "low": 21.005,
+                    "prevclose": 22.81,
+                    "bid": 21.25,
+                    "ask": 21.26,
+                    "bidsize": 5600,
+                    "asksize": 2300,
+                    "rawbidsize": 56,
+                    "rawasksize": 23,
+                    "tradevolume": 314804,
+                    "sharevolume": 54138047,
+                    "vwap": 23.264966,
+                    "lasttradedatetime": "2023-08-11T14:26:31-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:31-04:00",
+                    "totalvalue": 1167377990.00,
+                    "volumechangepercent": 10.722449
+                },
+                "fundamental": {
+                    "sharesoutstanding": 333100060,
+                    "shareclasslevelsharesoutstanding": 283550060,
+                    "marketcap": 7081707276,
+                    "week52high": {
+                        "date": "2023-07-31",
+                        "content": 28.75
+                    },
+                    "week52low": {
+                        "date": "2022-10-13",
+                        "content": 6.21
+                    },
+                    "dividend": {
+                        "date": "2023-06-21",
+                        "amount": 0.12772,
+                        "yield": 0.56,
+                        "latestamount": {
+                            "currency": "USD",
+                            "content": 0.03805
+                        },
+                        "frequency": "Q",
+                        "paydate": "2023-06-28"
+                    }
+                },
+                "symbolstring": "SOXL",
+                "datatype": "etf",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "F",
+                    "exchange": "NYE",
+                    "exLgName": "New York Stock Exchange",
+                    "exShName": "NYSE"
+                },
+                "equityinfo": {
+                    "longname": "Ford Motor Company",
+                    "shortname": "F"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 12.095,
+                    "change": -0.065,
+                    "changepercent": -0.534539,
+                    "tick": 1,
+                    "open": 12.12,
+                    "high": 12.20,
+                    "low": 12.00,
+                    "prevclose": 12.16,
+                    "bid": 12.09,
+                    "ask": 12.10,
+                    "bidsize": 11300,
+                    "asksize": 31600,
+                    "rawbidsize": 113,
+                    "rawasksize": 316,
+                    "tradevolume": 124718,
+                    "sharevolume": 47821693,
+                    "vwap": 12.302286,
+                    "lasttradedatetime": "2023-08-11T14:26:30-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:31-04:00",
+                    "totalvalue": 578445600.00,
+                    "volumechangepercent": -17.238844
+                },
+                "fundamental": {
+                    "sharesoutstanding": 4002225602,
+                    "shareclasslevelsharesoutstanding": 3931373526,
+                    "totalsharesoutstanding": 4002225602,
+                    "marketcap": 48406918656,
+                    "eps": 1.03999996,
+                    "peratio": 12.4,
+                    "pbratio": 1.109,
+                    "week52high": {
+                        "date": "2022-08-16",
+                        "content": 16.68
+                    },
+                    "week52low": {
+                        "date": "2022-12-28",
+                        "content": 10.90
+                    },
+                    "dividend": {
+                        "date": "2023-07-24",
+                        "amount": 0.60,
+                        "yield": 4.934,
+                        "latestamount": {
+                            "currency": "USD",
+                            "content": 0.15
+                        },
+                        "frequency": "Q",
+                        "paydate": "2023-09-01"
+                    }
+                },
+                "symbolstring": "F",
+                "datatype": "equity",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            }
+        ]
+    }
+}

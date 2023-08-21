@@ -1,0 +1,300 @@
+{
+    "results": {
+        "copyright": "Copyright (c) 2023 QuoteMedia, Inc.",
+        "symbolcount": 5,
+        "quote": [
+            {
+                "key": {
+                    "symbol": "MIMO",
+                    "exchange": "AMX",
+                    "exLgName": "NYSE American",
+                    "exShName": "NYSE American"
+                },
+                "equityinfo": {
+                    "longname": "Airspan Networks Holdings Inc.",
+                    "shortname": "Airspan Networks"
+                },
+                "status": {
+                    "regsho": "R",
+                    "effectivedate": "2023-08-11T10:09:20-0400"
+                },
+                "pricedata": {
+                    "last": 0.2988,
+                    "change": 0.1451,
+                    "changepercent": 94.404686,
+                    "tick": 1,
+                    "open": 0.1585,
+                    "high": 0.374,
+                    "low": 0.1378,
+                    "prevclose": 0.1537,
+                    "bid": 0.2977,
+                    "ask": 0.2988,
+                    "bidsize": 300,
+                    "asksize": 200,
+                    "rawbidsize": 3,
+                    "rawasksize": 2,
+                    "tradevolume": 83407,
+                    "sharevolume": 80206225,
+                    "vwap": 0.154998,
+                    "lasttradedatetime": "2023-08-11T14:26:29-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:29-04:00",
+                    "totalvalue": 24081185.90,
+                    "volumechangepercent": 16413.43
+                },
+                "fundamental": {
+                    "sharesoutstanding": 74582992,
+                    "shareclasslevelsharesoutstanding": 74582992,
+                    "totalsharesoutstanding": 74582992,
+                    "marketcap": 22285398,
+                    "eps": -0.449999988,
+                    "pbratio": -0.203,
+                    "week52high": {
+                        "date": "2022-09-19",
+                        "content": 3.39
+                    },
+                    "week52low": {
+                        "date": "2023-06-07",
+                        "content": 0.1329
+                    }
+                },
+                "symbolstring": "MIMO",
+                "datatype": "equity",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "GNS",
+                    "exchange": "AMX",
+                    "exLgName": "NYSE American",
+                    "exShName": "NYSE American"
+                },
+                "equityinfo": {
+                    "longname": "Genius Group Limited",
+                    "shortname": "Genius Group Ltd"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 1.364,
+                    "change": 0.549,
+                    "changepercent": 67.361961,
+                    "tick": 1,
+                    "open": 0.8806,
+                    "high": 1.43,
+                    "low": 0.82,
+                    "prevclose": 0.815,
+                    "bid": 1.36,
+                    "ask": 1.37,
+                    "bidsize": 1100,
+                    "asksize": 2300,
+                    "rawbidsize": 11,
+                    "rawasksize": 23,
+                    "tradevolume": 96795,
+                    "sharevolume": 46311288,
+                    "vwap": 0.810452,
+                    "lasttradedatetime": "2023-08-11T14:26:31-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:30-04:00",
+                    "totalvalue": 52824820.90,
+                    "volumechangepercent": 1018.5272
+                },
+                "fundamental": {
+                    "sharesoutstanding": 50900057,
+                    "shareclasslevelsharesoutstanding": 50900057,
+                    "totalsharesoutstanding": 50900057,
+                    "marketcap": 69427678,
+                    "eps": -0.280000001,
+                    "pbratio": -0.672,
+                    "week52high": {
+                        "date": "2022-08-19",
+                        "content": 11.7999
+                    },
+                    "week52low": {
+                        "date": "2023-01-03",
+                        "content": 0.301
+                    }
+                },
+                "symbolstring": "GNS",
+                "datatype": "equity",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "SENS",
+                    "exchange": "AMX",
+                    "exLgName": "NYSE American",
+                    "exShName": "NYSE American"
+                },
+                "equityinfo": {
+                    "longname": "Senseonics Holdings Inc.",
+                    "shortname": "SENS"
+                },
+                "status": {
+                    "regsho": "R",
+                    "effectivedate": "2023-08-11T09:31:27-0400"
+                },
+                "pricedata": {
+                    "last": 0.67765,
+                    "change": -0.05985,
+                    "changepercent": -8.115254,
+                    "tick": -1,
+                    "open": 0.70,
+                    "high": 0.7217,
+                    "low": 0.65,
+                    "prevclose": 0.7375,
+                    "bid": 0.6776,
+                    "ask": 0.6777,
+                    "bidsize": 1300,
+                    "asksize": 1000,
+                    "rawbidsize": 13,
+                    "rawasksize": 10,
+                    "tradevolume": 16091,
+                    "sharevolume": 11188767,
+                    "vwap": 0.748169,
+                    "lasttradedatetime": "2023-08-11T14:26:28-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:28-04:00",
+                    "totalvalue": 7505338.67,
+                    "volumechangepercent": 135.7924
+                },
+                "fundamental": {
+                    "sharesoutstanding": 479871695,
+                    "shareclasslevelsharesoutstanding": 479871695,
+                    "totalsharesoutstanding": 479871695,
+                    "marketcap": 325185054,
+                    "eps": -0.079999998,
+                    "peratio": 6.5,
+                    "pbratio": 3.227,
+                    "week52high": {
+                        "date": "2022-08-11",
+                        "content": 2.44
+                    },
+                    "week52low": {
+                        "date": "2023-04-27",
+                        "content": 0.54
+                    }
+                },
+                "symbolstring": "SENS",
+                "datatype": "equity",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "TELL",
+                    "exchange": "AMX",
+                    "exLgName": "NYSE American",
+                    "exShName": "NYSE American"
+                },
+                "equityinfo": {
+                    "longname": "Tellurian Inc.",
+                    "shortname": "TELL"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 1.45,
+                    "change": -0.03,
+                    "changepercent": -2.027027,
+                    "tick": 0,
+                    "open": 1.50,
+                    "high": 1.52,
+                    "low": 1.45,
+                    "prevclose": 1.48,
+                    "bid": 1.45,
+                    "ask": 1.46,
+                    "bidsize": 101100,
+                    "asksize": 46600,
+                    "rawbidsize": 1011,
+                    "rawasksize": 466,
+                    "tradevolume": 12236,
+                    "sharevolume": 6822758,
+                    "vwap": 1.485982,
+                    "lasttradedatetime": "2023-08-11T14:26:28-04:00",
+                    "lastquotedatetime": "2023-08-11T14:26:28-04:00",
+                    "totalvalue": 10088008.90,
+                    "volumechangepercent": -19.793932
+                },
+                "fundamental": {
+                    "sharesoutstanding": 581819726,
+                    "shareclasslevelsharesoutstanding": 581819726,
+                    "totalsharesoutstanding": 581819726,
+                    "marketcap": 843638603,
+                    "eps": -0.109999999,
+                    "pbratio": 1.368,
+                    "week52high": {
+                        "date": "2022-08-23",
+                        "content": 4.89
+                    },
+                    "week52low": {
+                        "date": "2023-03-24",
+                        "content": 0.94
+                    }
+                },
+                "symbolstring": "TELL",
+                "datatype": "equity",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "DNN",
+                    "exchange": "AMX",
+                    "exLgName": "NYSE American",
+                    "exShName": "NYSE American"
+                },
+                "equityinfo": {
+                    "longname": "Denison Mines Corp (Canada)",
+                    "shortname": "DNN"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 1.365,
+                    "change": 0.055,
+                    "changepercent": 4.198473,
+                    "tick": 0,
+                    "open": 1.31,
+                    "high": 1.39,
+                    "low": 1.305,
+                    "prevclose": 1.31,
+                    "bid": 1.36,
+                    "ask": 1.37,
+                    "bidsize": 43800,
+                    "asksize": 32700,
+                    "rawbidsize": 438,
+                    "rawasksize": 327,
+                    "tradevolume": 5097,
+                    "sharevolume": 4903716,
+                    "vwap": 1.342212,
+                    "lasttradedatetime": "2023-08-11T14:26:24-04:00",
+                    "lastquotedatetime": "2023-08-11T14:25:54-04:00",
+                    "totalvalue": 6658505.72,
+                    "volumechangepercent": 26.779312
+                },
+                "fundamental": {
+                    "sharesoutstanding": 835381534,
+                    "shareclasslevelsharesoutstanding": 835381534,
+                    "totalsharesoutstanding": 835381534,
+                    "marketcap": 1140295794,
+                    "peratio": 104.2,
+                    "pbratio": 2.625,
+                    "week52high": {
+                        "date": "2023-02-02",
+                        "content": 1.53
+                    },
+                    "week52low": {
+                        "date": "2023-03-16",
+                        "content": 0.922
+                    }
+                },
+                "symbolstring": "DNN",
+                "datatype": "equity",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-08-11T14:26:32-04:00"
+            }
+        ]
+    }
+}

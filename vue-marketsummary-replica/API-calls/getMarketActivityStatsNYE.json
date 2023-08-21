@@ -1,0 +1,24 @@
+{
+    "results": {
+        "copyright": "Copyright (c) 2023 QuoteMedia, Inc.",
+        "marketactivity": {
+            "entitlement": "DL",
+            "datetime": "2023-08-11T14:26:29-04:00",
+            "exchange": "NYE",
+            "exLgName": "New York Stock Exchange",
+            "exShName": "NYSE",
+            "issuesadvanced": 1527,
+            "issuesdeclined": 1369,
+            "issuesunchanged": 81,
+            "totalissues": 2976,
+            "advancedsharevolume": 1324051000,
+            "declinedsharevolume": 1108320000,
+            "unchangedsharevolume": -34248000,
+            "totalsharevolume": 2398123000,
+            "issues52weekhigh": 39,
+            "issues52weeklow": 45,
+            "totalvalue": 83929115100,
+            "totaltrades": 19400137
+        }
+    }
+}

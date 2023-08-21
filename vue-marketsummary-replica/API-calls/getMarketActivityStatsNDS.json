@@ -1,0 +1,24 @@
+{
+    "results": {
+        "copyright": "Copyright (c) 2023 QuoteMedia, Inc.",
+        "marketactivity": {
+            "entitlement": "DL",
+            "datetime": "2023-08-11T14:26:31-04:00",
+            "exchange": "NSD",
+            "exLgName": "NASDAQ Global Market",
+            "exShName": "NSD",
+            "issuesadvanced": 1897,
+            "issuesdeclined": 2316,
+            "issuesunchanged": 139,
+            "totalissues": 4353,
+            "advancedsharevolume": 1843145000,
+            "declinedsharevolume": 1669990000,
+            "unchangedsharevolume": -133808000,
+            "totalsharevolume": 3379327000,
+            "issues52weekhigh": 73,
+            "issues52weeklow": 182,
+            "totalvalue": 131412331000,
+            "totaltrades": 20230272
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "results": {
+        "pagenumber": 1,
+        "nextpage": "https://app.quotemedia.com/data/getHeadlines.json?page=2&webmasterId=101894&topic=MARKCOMM&newslang=en&summary=true&skipCount=true&resultsPerPage=6",
+        "copyright": "Copyright (c) 2023 QuoteMedia, Inc.",
+        "newsitemcount": 6,
+        "pagecount": 1,
+        "news": [
+            {
+                "newsitem": [
+                    {
+                        "newsid": 7243505814916940,
+                        "datetime": "2023-08-11T14:26:20-04:00",
+                        "source": "The Express Wire via QuoteMedia",
+                        "headline": "[2023-2030] Tissue Ablation Device Market Report Analysis | 112 Page Report",
+                        "qmsummary": "Most recent research on     Tissue Ablation Device Market     Size by Application [   ,Hospitals,...",
+                        "storyurl": "https://api.quotemedia.com/supplement/news-story/?webmasterId=101894&storyId=7243505814916940",
+                        "topic": "[AFRICA01,ASIA0001,ASIAPACI,AUSTRALI,BRAZIL01,BUSINESS,CANADA01,CARIBEAN,CENTAMER,CHILE001,CHINA001,COLOMBIA,CONSUMER,COVID-19,CUBA0001,ECOMMERCE,ENVIRONMENT,EUROPE01,EXPANSION,FRANCE01,GBRITAIN,GERMANY1,GOVERNMENT,INFLATION,IRAN0001,JAPAN001,MANUFACTURER,MANUFACTURING,MARKCOMM,MARKET+SHARE,MARKETING,MIDLEAST,NEW+PRODUCT,NEWMEXIC,PANDEMIC,PERU0001,PRODUCTS,REGULATIONS,RESEARCH,REVENUE,SAMERICA,STATISTICS,STHAFRIC,SYRIA001,TECHNOLOGY,UKRAINE1,WAR00001,WESTEURO]"
+                    },
+                    {
+                        "newsid": 7551231773284884,
+                        "datetime": "2023-08-11T14:26:18-04:00",
+                        "source": "The Express Wire via QuoteMedia",
+                        "headline": "[2023-2030] Diesel Nozzles Market Demand, Growth | 108 Page Report",
+                        "qmsummary": "Global     Diesel Nozzles Market     provides overview of the market segmentation, size, share, n...",
+                        "storyurl": "https://api.quotemedia.com/supplement/news-story/?webmasterId=101894&storyId=7551231773284884",
+                        "topic": "[AFRICA01,AGRICULTURE,ASIA0001,ASIAPACI,AUSTRALI,AUTOMOTIVE,BRAZIL01,BUSINESS,CANADA01,CARIBEAN,CENTAMER,CHILE001,CHINA001,COLOMBIA,CONSTRUCTION,CONSULTING,CONSUMER,CORPORATE,COVID-19,CUBA0001,ECOMMERCE,ENVIRONMENT,EUROPE01,EXPANSION,FRANCE01,GBRITAIN,GERMANY1,GOVERNMENT,INFLATION,IRAN0001,JAPAN001,MACHINERY,MANUFACTURER,MANUFACTURING,MARKCOMM,MARKET+SHARE,MARKETING,MIDLEAST,NEW+PRODUCT,NEWMEXIC,PANDEMIC,PERU0001,PRODUCTS,REGULATIONS,RESEARCH,RESEARCH+AND+DEVELOPMENT,REVENUE,SAMERICA,STATISTICS,STHAFRIC,SYRIA001,TECHNOLOGY,UKRAINE1,WAR00001,WESTEURO]"
+                    },
+                    {
+                        "newsid": 6136125840155771,
+                        "datetime": "2023-08-11T14:26:16-04:00",
+                        "source": "The Express Wire via QuoteMedia",
+                        "headline": "[2023-2030] Table Blaster Market | 118 Page Report",
+                        "qmsummary": "Most recent research on     Table Blaster Market     Size by Application [   ,Metal Industry,Auto...",
+                        "storyurl": "https://api.quotemedia.com/supplement/news-story/?webmasterId=101894&storyId=6136125840155771",
+                        "topic": "[AFRICA01,ASIA0001,ASIAPACI,AUSTRALI,AUTOMOTIVE,BRAZIL01,BUSINESS,CANADA01,CARIBEAN,CENTAMER,CHILE001,CHINA001,COLOMBIA,CONSUMER,COVID-19,CUBA0001,ECOMMERCE,ENVIRONMENT,EUROPE01,EXPANSION,FRANCE01,GBRITAIN,GERMANY1,GOVERNMENT,INFLATION,IRAN0001,JAPAN001,MANUFACTURER,MANUFACTURING,MARKCOMM,MARKET+SHARE,MARKETING,MIDLEAST,NEW+PRODUCT,NEWMEXIC,PANDEMIC,PERU0001,PRODUCTS,REGULATIONS,RESEARCH,REVENUE,SAMERICA,STATISTICS,STHAFRIC,SYRIA001,TECHNOLOGY,UKRAINE1,WAR00001,WESTEURO]"
+                    },
+                    {
+                        "newsid": 5209429547776270,
+                        "datetime": "2023-08-11T14:26:14-04:00",
+                        "source": "The Express Wire via QuoteMedia",
+                        "headline": "[2023-2030] 3D Printing with Metal Powders Market Size Forecast Report | 108 Page Report",
+                        "qmsummary": "Global     3D Printing with Metal Powders Market     provides overview of the market segmentation...",
+                        "storyurl": "https://api.quotemedia.com/supplement/news-story/?webmasterId=101894&storyId=5209429547776270",
+                        "topic": "[ACADEMIC,AEROSPACE,AFRICA01,ASIA0001,ASIAPACI,AUSTRALI,AUTOMOTIVE,BRAZIL01,BUSINESS,CANADA01,CARIBEAN,CENTAMER,CHILE001,CHINA001,COLOMBIA,CONSULTING,CONSUMER,CORPORATE,COVID-19,CUBA0001,ECOMMERCE,ENVIRONMENT,EUROPE01,EXPANSION,FRANCE01,GBRITAIN,GERMANY1,GOVERNMENT,HEALTHCARE,INFLATION,IRAN0001,JAPAN001,MANUFACTURER,MANUFACTURING,MARKCOMM,MARKET+SHARE,MARKETING,MIDLEAST,NEW+PRODUCT,NEWMEXIC,PANDEMIC,PERU0001,PRODUCTS,REGULATIONS,RESEARCH,RESEARCH+AND+DEVELOPMENT,REVENUE,SAMERICA,STATISTICS,STHAFRIC,SYRIA001,TECHNOLOGY,UKRAINE1,WAR00001,WESTEURO]"
+                    },
+                    {
+                        "newsid": 6327139905066363,
+                        "datetime": "2023-08-11T14:26:12-04:00",
+                        "source": "The Express Wire via QuoteMedia",
+                        "headline": "[2023-2030] Compressors For Dental Offices And Laboratories Market Size and Share with Forecast Report | 105 Page Report",
+                        "qmsummary": "Most recent research on     Compressors For Dental Offices And Laboratories Market     Size by Ap...",
+                        "storyurl": "https://api.quotemedia.com/supplement/news-story/?webmasterId=101894&storyId=6327139905066363",
+                        "topic": "[AFRICA01,ASIA0001,ASIAPACI,AUSTRALI,BRAZIL01,BUSINESS,CANADA01,CARIBEAN,CENTAMER,CHILE001,CHINA001,COLOMBIA,CONSUMER,COVID-19,CUBA0001,ECOMMERCE,ENVIRONMENT,EUROPE01,EXPANSION,FRANCE01,GBRITAIN,GERMANY1,GOVERNMENT,INFLATION,IRAN0001,JAPAN001,MANUFACTURER,MANUFACTURING,MARKCOMM,MARKET+SHARE,MARKETING,MIDLEAST,NEW+PRODUCT,NEWMEXIC,PANDEMIC,PERU0001,PRODUCTS,REGULATIONS,RESEARCH,REVENUE,SAMERICA,STATISTICS,STHAFRIC,SYRIA001,TECHNOLOGY,UKRAINE1,WAR00001,WESTEURO]"
+                    },
+                    {
+                        "newsid": 5892756025619580,
+                        "datetime": "2023-08-11T14:26:10-04:00",
+                        "source": "The Express Wire via QuoteMedia",
+                        "headline": "High Concentration Glufosinate Ammonium Market Share with Forecast Report [2023-2030]",
+                        "qmsummary": "Global     High Concentration Glufosinate Ammonium Market     provides overview of the market seg...",
+                        "storyurl": "https://api.quotemedia.com/supplement/news-story/?webmasterId=101894&storyId=5892756025619580",
+                        "topic": "[AFRICA01,ASIA0001,ASIAPACI,AUSTRALI,BRAZIL01,BUSINESS,CANADA01,CARIBEAN,CENTAMER,CHILE001,CHINA001,COLOMBIA,CONSULTING,CONSUMER,CORPORATE,COVID-19,CUBA0001,ECOMMERCE,ENVIRONMENT,EUROPE01,EXPANSION,FRANCE01,GBRITAIN,GERMANY1,GOVERNMENT,HERBICIDE,INFLATION,IRAN0001,JAPAN001,MANUFACTURER,MANUFACTURING,MARKCOMM,MARKET+SHARE,MARKETING,MIDLEAST,NEW+PRODUCT,NEWMEXIC,PANDEMIC,PERU0001,PRODUCTS,REGULATIONS,RESEARCH,RESEARCH+AND+DEVELOPMENT,REVENUE,SAMERICA,STATISTICS,STHAFRIC,SYRIA001,TECHNOLOGY,UKRAINE1,WAR00001,WESTEURO]"
+                    }
+                ]
+            }
+        ]
+    }
+}
