@@ -1,0 +1,27 @@
+* {
+    font-family: var(--QMOD-font-family);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--QMOD-primary-text);
+    font: var(--QMOD-font);
+}
+
+#app {
+    margin: 8px;
+}
+
+:root {
+    --QMOD-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --QMOD-default-font-size: 0.81em;
+    --QMOD-font: 13pt "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --QMOD-primary-color: #0477d1;
+    --QMOD-secondary-color: #222;
+    --QMOD-primary-grey: #E3E3E3;
+    --QMOD-softer-grey: #EEEEEE;
+    --QMOD-primary-text: #222;
+    --QMOD-secondary-text: #575757;
+    --QMOD-primary-border: 1.5px solid #EEE;
+    --QMOD-ticker-red: #D9363D;
+    --QMOD-ticker-green: #007600;
+}
