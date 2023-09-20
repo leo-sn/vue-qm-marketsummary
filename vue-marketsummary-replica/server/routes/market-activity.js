@@ -25,11 +25,11 @@ function readSymbolFile(symbol) {
 //**********************//
 
 router.get('/', (req, res) => {
-    if(req.query.symbol == 'AMX' || req.query.symbol == 'NDS' || req.query.symbol == 'NYE' || req.query.symbol == 'TSC' || req.query.symbol == 'TSX') {
+    if(req.query.symbol == 'AMX' || req.query.symbol == 'NSD' || req.query.symbol == 'NYE' || req.query.symbol == 'TSV' || req.query.symbol == 'TSX') {
         const responseData = readSymbolFile(req.query.symbol)
         res.status(200).json(responseData)
     } else {
-        res.status(200).send('Make sure to include a valid symbol: AMX, NDS, NYE, TSC, or TSX.')
+        res.status(200).send('Make sure to include a valid symbol: AMX, NSD, NYE, TSV, or TSX.')
     }
 })
 
