@@ -84,6 +84,8 @@
         margin-bottom: 20px;
         height: fit-content;
 
+        font-family: var(--QMOD-font-family);
+
         &__table {
             width: 100%;
             border-collapse: collapse; 
@@ -103,6 +105,7 @@
 
     .table-header {
         border-bottom: 1px solid #ccc;
+        font-size: 81%;
 
         &:hover {
             border-bottom: 2px solid var(--QMOD-primary-color);

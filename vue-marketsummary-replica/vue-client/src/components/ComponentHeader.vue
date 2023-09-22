@@ -16,6 +16,8 @@ import '../assets/main.scss';
     background-color: #f0f0f0;
     padding: 8px 20px;
     font-weight: 700;
-    font-size: 105.5%;
+    font-size: 110%;
+
+    font-family: var(--QMOD-font-family);
 }
 </style>

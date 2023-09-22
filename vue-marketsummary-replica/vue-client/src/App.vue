@@ -26,6 +26,8 @@ const marketDiarySymbol = ['TSX', 'TSV', 'NYE', 'AMX', 'NSD'];
 
 <style lang="scss">
 
+
+
   .main-container {
     height: 100vh;
   }
