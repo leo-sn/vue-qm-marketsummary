@@ -1,7 +1,7 @@
 <script setup>
     import ComponentHeader from './ComponentHeader.vue'
     import '../assets/main.scss';
-    import { ref, onMounted } from 'vue';
+    import { ref, onMounted, onBeforeMount } from 'vue';
     import axios from 'axios';
 
     //make data a reactive variable - if it changes in the future, the dom renders
@@ -31,8 +31,7 @@
         }
     }
 
-
-    //fetchs data right when component is mounted.
+    // fetchs data right when component is mounted.
     onMounted(() => {
         fetchData();
     });
@@ -122,11 +121,11 @@
     }
 
     .table-body {
-        &::before {
-        height: 0.688em;
-        display: table-row;
-        content: "";
-        }
+        // &::before {
+        // height: 0.688em;
+        // display: table-row;
+        // content: "";
+        // }
     }
 
     td {

@@ -16,6 +16,6 @@
 
 <style lang="scss" scoped>
     .main-content {
-        height: 290px;
+        height: 275px;
     }
 </style>
