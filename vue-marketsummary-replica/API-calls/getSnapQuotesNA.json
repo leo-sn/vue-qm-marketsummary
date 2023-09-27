@@ -1,0 +1,229 @@
+{
+    "results": {
+        "copyright": "Copyright (c) 2023 QuoteMedia, Inc.",
+        "symbolcount": 5,
+        "quote": [
+            {
+                "key": {
+                    "symbol": "^DJI",
+                    "exchange": "DJI",
+                    "exLgName": "Dow Jones Indices",
+                    "exShName": "DJI",
+                    "isopen": "true",
+                    "iscurrentlyopen": "false",
+                    "timezone": "EDT"
+                },
+                "equityinfo": {
+                    "longname": "Dow Jones Industrial Average",
+                    "shortname": "DJ Ind"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 33618.88,
+                    "change": -388.00,
+                    "changepercent": -1.140946,
+                    "tick": 0,
+                    "open": 33862.68,
+                    "high": 33879.93,
+                    "low": 33569.60,
+                    "prevclose": 34006.88,
+                    "bid": 33591.60,
+                    "ask": 33709.11,
+                    "bidsize": 0,
+                    "asksize": 0,
+                    "tradevolume": 24602,
+                    "sharevolume": 282204266,
+                    "lasttradedatetime": "2023-09-26T16:30:00-04:00",
+                    "lastquotedatetime": "2023-09-26T17:09:33-04:00",
+                    "lastmarketidentificationcode": "DJI",
+                    "bidmarketidentificationcode": "DJI",
+                    "askmarketidentificationcode": "DJI",
+                    "close": 33618.88,
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "^DJI",
+                "datatype": "index",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-09-27T00:24:24-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "^OEX",
+                    "exchange": "MDX",
+                    "exLgName": "CBOE Global Markets",
+                    "exShName": "CBOE",
+                    "isopen": "true",
+                    "iscurrentlyopen": "false",
+                    "timezone": "EDT"
+                },
+                "equityinfo": {
+                    "longname": "S&P 100",
+                    "shortname": "S&P 100"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 2003.67,
+                    "change": -30.40,
+                    "changepercent": -1.49454,
+                    "tick": 0,
+                    "open": 2022.07,
+                    "high": 2022.07,
+                    "low": 1999.31,
+                    "prevclose": 2034.07,
+                    "bid": 2002.60,
+                    "ask": 2008.46,
+                    "bidsize": 0,
+                    "asksize": 0,
+                    "tradevolume": 21347,
+                    "sharevolume": 0,
+                    "lasttradedatetime": "2023-09-26T17:00:00-04:00",
+                    "lastquotedatetime": "2023-09-26T17:09:33-04:00",
+                    "bidmarketidentificationcode": "MDX",
+                    "askmarketidentificationcode": "MDX",
+                    "close": 2003.67,
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "^OEX",
+                "datatype": "index",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-09-27T00:24:24-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "^IN",
+                    "exchange": "SPIB",
+                    "exLgName": "CME S&amp;P Base Indices",
+                    "exShName": "SPIB",
+                    "isopen": "true",
+                    "iscurrentlyopen": "false",
+                    "timezone": "EDT"
+                },
+                "equityinfo": {
+                    "longname": "S&P 500",
+                    "shortname": "S&P 500"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 4273.53,
+                    "change": -63.91,
+                    "changepercent": -1.47345,
+                    "tick": 0,
+                    "open": 4312.88,
+                    "high": 4313.01,
+                    "low": 4265.98,
+                    "prevclose": 4337.44,
+                    "bid": 4259.66,
+                    "ask": 4301.51,
+                    "bidsize": 0,
+                    "asksize": 0,
+                    "tradevolume": 24602,
+                    "sharevolume": 2129442202,
+                    "lasttradedatetime": "2023-09-26T16:00:00-04:00",
+                    "lastquotedatetime": "2023-09-26T17:09:33-04:00",
+                    "lastmarketidentificationcode": "SPIB",
+                    "bidmarketidentificationcode": "SPIB",
+                    "askmarketidentificationcode": "SPIB",
+                    "close": 4273.53,
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "^IN",
+                "datatype": "index",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-09-27T00:24:24-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "^NYA",
+                    "exchange": "NYGIF",
+                    "exLgName": "NYSE Global Indices",
+                    "exShName": "NYGIF",
+                    "isopen": "true",
+                    "iscurrentlyopen": "false",
+                    "timezone": "EDT"
+                },
+                "equityinfo": {
+                    "longname": "NYSE Composite",
+                    "shortname": "NYSE"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 15381.5807,
+                    "change": -212.1492,
+                    "changepercent": -1.360478,
+                    "tick": 0,
+                    "open": 15593.7299,
+                    "high": 15593.7299,
+                    "low": 15371.7486,
+                    "prevclose": 15593.7299,
+                    "tradevolume": 0,
+                    "sharevolume": 0,
+                    "lasttradedatetime": "2023-09-26T17:59:45-04:00",
+                    "lastmarketidentificationcode": "NYGIF",
+                    "close": 15381.5807,
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "^NYSE",
+                "datatype": "index",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-09-27T00:24:24-04:00"
+            },
+            {
+                "key": {
+                    "symbol": "^TSX:CA",
+                    "exchange": "TSI",
+                    "exLgName": "Toronto Stock Exchange",
+                    "exShName": "TSX",
+                    "isopen": "true",
+                    "iscurrentlyopen": "false",
+                    "timezone": "EDT"
+                },
+                "equityinfo": {
+                    "longname": "S&P/TSX Composite Index",
+                    "shortname": "S&P TSX"
+                },
+                "status": {},
+                "pricedata": {
+                    "last": 19556.15,
+                    "change": -244.46,
+                    "changepercent": -1.234608,
+                    "tick": 0,
+                    "open": 19729.11,
+                    "high": 19774.71,
+                    "low": 19555.49,
+                    "prevclose": 19800.61,
+                    "bid": 19523.35,
+                    "ask": 19623.78,
+                    "bidsize": 0,
+                    "asksize": 0,
+                    "tradevolume": 0,
+                    "sharevolume": 232673749,
+                    "lasttradedatetime": "2023-09-26T16:47:20-04:00",
+                    "lastquotedatetime": "2023-09-26T16:47:20-04:00",
+                    "bidmarketidentificationcode": "TSI",
+                    "askmarketidentificationcode": "TSI",
+                    "close": 19556.15,
+                    "imbalance": {
+                        "imbalancesize": 0
+                    }
+                },
+                "symbolstring": "^TSX",
+                "datatype": "index",
+                "entitlement": "DL",
+                "delaymin": 15,
+                "datetime": "2023-09-27T00:24:24-04:00"
+            }
+        ]
+    }
+}

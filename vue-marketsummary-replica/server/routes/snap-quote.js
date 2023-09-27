@@ -12,8 +12,8 @@ app.use(express.json());
 
 //***** FUNCTIONS ******/
 
-function getSnapQuote() {
-    const snapQuoteFile = fs.readFileSync(`../API-calls/getSnapQuotes.json`)
+function getSnapQuote(location) {
+    const snapQuoteFile = fs.readFileSync(`../API-calls/getSnapQuotes${location}.json`)
     const snapQuoteData = JSON.parse(snapQuoteFile)
     return snapQuoteData;
 }
@@ -22,9 +22,14 @@ function getSnapQuote() {
 //*****  REQUESTS  *****//
 //**********************//
 
-router.get('/', (_req, res) => {
-    const getData = getSnapQuote();
-    res.status(200).json(getData)
+router.get('/', (req, res) => {
+    console.log(req.query.location)
+    if(req.query.location == 'NA' || req.query.location == 'FOREX'){
+        const responseData = getSnapQuote(req.query.location)
+        res.status(200).json(responseData)
+    } else {
+        res.status(200).send('Make sure to include a valid location: NA. Default is Forex')
+    }
 })
 
 //EXPORTING

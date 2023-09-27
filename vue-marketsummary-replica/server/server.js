@@ -36,6 +36,7 @@ app.use('/market-stats', marketStatsRoute);
 app.use('/snap-quotes', snapQuoteRoute);
 
 
+
 //root access request
 app.get('/', (_req, res) => {
     
