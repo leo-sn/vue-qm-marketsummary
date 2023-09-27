@@ -16,9 +16,8 @@
 
     async function getForexData() {
         try {
-            const response = await axios.get(`http://127.0.0.1:3030/snap-quotes`);
+            const response = await axios.get(`http://127.0.0.1:3030/snap-quotes?location=FOREX`);
             data.value.results = response.data.results;
-            console.log(data.value.results)
         } catch (error) {
         console.error(`Error fetching data: `, error);
         return null; // Return null or handle the error as needed
@@ -63,6 +62,7 @@
 
         return formattedNumber;
     }
+    
     const isNegative = (number) => {
       return number < 0;
     };

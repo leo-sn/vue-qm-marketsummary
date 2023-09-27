@@ -45,7 +45,6 @@
     //fetchs data right when component is mounted.
     onMounted(() => {
         fetchData();
-        console.log(data.value)
     });
 
 </script>

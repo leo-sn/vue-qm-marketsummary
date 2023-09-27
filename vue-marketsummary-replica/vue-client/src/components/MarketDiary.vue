@@ -1,7 +1,7 @@
 <script setup>
     import ComponentHeader from './ComponentHeader.vue'
     import '../assets/main.scss';
-    import { ref, onMounted, onBeforeMount } from 'vue';
+    import { ref, onMounted } from 'vue';
     import axios from 'axios';
 
     //make data a reactive variable - if it changes in the future, the dom renders
